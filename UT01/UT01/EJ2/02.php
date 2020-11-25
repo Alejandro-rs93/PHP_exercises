@@ -9,7 +9,7 @@
         echo 'Alejandro Romero';
     ?>
     <br>
-    C/Jose Serrano, nº21
+    C/Serrano, nº25
     <br>
     <?php
     echo 'Tlf: 601458213';
