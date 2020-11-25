@@ -31,6 +31,9 @@
 
     echo "La nota media de los tres es : ".round($media, $precision = 2) ," ", $nota;
 ?>
+
+<br><br>
+        <a href="Ejercicio08.php">>> Volver</a>
     
 </body>
 </html>
