@@ -6,7 +6,7 @@
     <title>Ejercicio08-Tanda2</title>
 </head>
 <body>
-    <form action="Ejercicio08-1.php">
+    <form action="Ejercicio08-1.php" method="post">
         <input type="number" name="nota1" min="0" step="any" autofocus><br>
         <input type="number" name="nota2" min="0" step="any"><br>
         <input type="number" name="nota3" min="0" step="any"><br>
